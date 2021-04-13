@@ -15,6 +15,8 @@
 
 2. :book: [C1.2 Elaboración del acta constitutiva del proyecto](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/C1.2_Elaboracion_del_acta_constitutiva_del_proyecto_CotaVillaEdyJesusManuel.md)
 
+3. :book: [C1.2 Elaboración del acta constitutiva del proyecto](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/C1.3_Requisitos_del_sistema_para_el_caso_de_estudio_CotaVillaEdyJesusManuel.md)
+
 ---
 ## :turtle: Acerca de mi
 Nombre: Cota Villa Edy Jesús Manuel
