@@ -17,7 +17,7 @@
 
 3. :book: [C1.3 Requisitos del sistema para el caso de estudio](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/C1.3_Requisitos_del_sistema_para_el_caso_de_estudio_CotaVillaEdyJesusManuel.md)
 
-4. :book: [A1.0 Consolidacion del acta constitutiva](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/A1.0_Consolidacion_del_acta_constitutiva_CotaVillaEdyJesusManuel.md)
+4. :boom: [A1.0 Consolidacion del acta constitutiva](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/A1.0_Consolidacion_del_acta_constitutiva_CotaVillaEdyJesusManuel.md)
 
 ---
 ## :turtle: Acerca de mi
