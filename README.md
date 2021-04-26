@@ -21,6 +21,8 @@
 
 5. :book: [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/C1.4_UML_Casos_de_uso_secuencia_clases_CotaVillaEdyJesusManuel.md)
 
+5. :book: [C1.5 Modelado de requisitos a través de diagramas estructurados](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/C1.5_UML_Estado_componentes_distribucion_CotaVillaEdyJesusManuel.md)
+
 ---
 ## :turtle: Acerca de mi
 Nombre: Cota Villa Edy Jesús Manuel
