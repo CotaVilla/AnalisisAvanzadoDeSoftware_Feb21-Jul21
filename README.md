@@ -23,6 +23,8 @@
 
 5. :book: [C1.5 Modelado de requisitos a través de diagramas estructurados](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/C1.5_UML_Estado_componentes_distribucion_CotaVillaEdyJesusManuel.md)
 
+6. :boom: [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/A1.1_ModeladoRequisitos_UML_CotaVillaEdyJesusManuel.md)
+
 ---
 ## :turtle: Acerca de mi
 Nombre: Cota Villa Edy Jesús Manuel
