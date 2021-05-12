@@ -30,6 +30,8 @@
 
 - :book: [C2.1 Especificación de Requerimientos Funcionales](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/C2.1_EspecificacionRequerimientos_Funcionales_EdyJesusManuelCotaVilla.md)
 
+- :boom: [A2.1 Especificación de requisitos y documentación](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/A2.1_Especificacion_de_requisitos_y_documentacion_CotaVillaEdyJesusManuel.md)
+
 
 ---
 ## :turtle: Acerca de mi
