@@ -34,6 +34,7 @@
 
 - :turtle: [A2.2 Diseño de la arquitectura 4+1](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/A2.2_Dise%C3%B1o_de_la_arquitectura_4%2B1_CotaVillaEdyJesusManuel.md)
 
+- :turtle: [A2.3 Patrones de arquitectura de software.md](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/A2.3_Patrones_de_arquitectura_de_software.md)
 
 ---
 ## :turtle: Acerca de mi
