@@ -36,6 +36,12 @@
 
 - :turtle: [A2.3 Patrones de arquitectura de software.md](https://github.com/CotaVilla/AnalisisAvanzadoDeSoftware_Feb21-Jul21/blob/main/blog/A2.3_Patrones_de_arquitectura_de_software.md)
 
+
+### Unidad 4
+
+:bomb:[A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/documentos/A3.1_Fase_inicio_Scrum_Declaracion_de_vision_del-proyecto_CotaVillaEdyJesusManuel.pdf)
+
+:bomb:[A3.2 Fase inicio: Artefactos](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/documentos/A3.2_Fase Inicial Artefactos_CotaVillaEdyJesusManuel.pdf)
 ---
 ## :turtle: Acerca de mi
 Nombre: Cota Villa Edy Jesús Manuel
