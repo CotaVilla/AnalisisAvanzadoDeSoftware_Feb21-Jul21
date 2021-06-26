@@ -39,11 +39,13 @@
 
 ### Unidad 4
 
-:bomb:[A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/documentos/A3.1_Fase_inicio_Scrum_Declaracion_de_vision_del-proyecto_CotaVillaEdyJesusManuel.pdf)
+:turtle:[A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/documentos/A3.1_Fase_inicio_Scrum_Declaracion_de_vision_del-proyecto_CotaVillaEdyJesusManuel.pdf)
 
-:bomb:[A3.2 Fase inicio: Artefactos](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/documentos/A3.2_Fase_Inicial_Artefactos_CotaVillaEdyJesusManuel.pdf)
+:turtle:[A3.2 Fase inicio: Artefactos](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/documentos/A3.2_Fase_Inicial_Artefactos_CotaVillaEdyJesusManuel.pdf)
 
-:bomb:[A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/documentos/A3.3_Arquitectura-de-software-a-traves-del-Modelo-C4_EdyCota.pdf)
+:turtle:[A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/documentos/A3.3_Arquitectura-de-software-a-traves-del-Modelo-C4_EdyCota.pdf)
+
+:turtle:[A3.4  Fase planificacion y estimacion: Artefactos](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/documentos/A3.4-_Fase-planificacion-y-estimacion-Artefactos_HectorJaramillo.pdf)
 
 ---
 ## :turtle: Acerca de mi
